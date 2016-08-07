@@ -1,3 +1,3 @@
 # gh-pages
-2048
-this is a 2048
+##Welcome to soulor's blog！
+ 
